@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Howard Zhong! Welcome to visit my website [h2zh.github.io](https://h2zh.github.io/) for more info 😄 From July 2023, most of my commits have been made on my employers' Github organization.
+### Hi there 👋 I'm Howard Zhong! Welcome to visit my website [h2zh.github.io](https://h2zh.github.io/) for more info 😄 From July 2023 to Jun 2024, most of my commits have been made on my employers' Github organization.
 
 <!--
 **h2zh/h2zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
