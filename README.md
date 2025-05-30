@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Howard Zhong! Welcome to visit my website [h2zh.github.io](https://h2zh.github.io/) for more info 😄 From July 2023 to June 2024, most of my commits have been made on my employers' Github organization.
+### Hi there 👋 I'm Howard Zhong! As a research software engineer at The Center for High Throughput Computing, I'm the core developer of an open source data federation *Pelican*, which serves as a distributed data delivery system for academics all over the world.
 
 <!--
-**h2zh/h2zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**h2zh/h2zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Welcome to visit my website [h2zh.github.io](https://h2zh.github.io/) for more info 😄
 
 Here are some ideas to get you started:
 
