@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Howard Zhong! As a research software engineer at The Center for High Throughput Computing, I'm the core developer of an open source data federation *Pelican*, which serves as a distributed data delivery system for academics all over the world.
+Hi there 👋 I'm Howard Zhong! As a research software engineer at The Center for High Throughput Computing, I'm the core developer of *Pelican*, an open-source framework that underpins Open Science Data Federation - a distributed data-delivery system for researchers worldwide.
+
+To explore Pelican and highlights of my prior enterprise work, welcome to visit my portfolio site [h2zh.github.io](https://h2zh.github.io/) 👈
 
 <!--
-**h2zh/h2zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Welcome to visit my website [h2zh.github.io](https://h2zh.github.io/) for more info 😄
+**h2zh/h2zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
 Here are some ideas to get you started:
 
